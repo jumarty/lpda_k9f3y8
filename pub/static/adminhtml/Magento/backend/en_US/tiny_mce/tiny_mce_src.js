@@ -1,0 +1,1 @@
+/var/www/html/shop/lib/web/tiny_mce/tiny_mce_src.js

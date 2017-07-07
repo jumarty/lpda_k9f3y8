@@ -1,0 +1,1 @@
+/var/www/html/shop/vendor/magento/module-theme/view/adminhtml/web/js/form.js
